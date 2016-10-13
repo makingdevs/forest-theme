@@ -1,0 +1,19 @@
+{
+  "name": "modulus-uno-theme",
+  "authors": ["says <says.rodriguez@gmail.com>" ],
+   "description": "CSS y JS de AgroOnline",
+    "moduleType": [],
+    "license": "MIT",
+    "homepage": "",
+    "ignore": [
+          "**/.*",
+          "**/*.html",
+          "node_modules",
+          "bower_components",
+          "test",
+          "tests"
+             ],
+    "dependencies": {
+     },
+    "private": true
+}
